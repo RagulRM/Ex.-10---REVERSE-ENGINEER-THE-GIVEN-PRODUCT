@@ -37,8 +37,8 @@
 <img height=40% width=30% src="https://github.com/KRISHNARAJ-D/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559695/25542f11-9bbc-47fb-96f1-9da68dc5725f">
 
 
-### Name: KRISHNARAJ D
-### Register Number: 212222230070
+### Name: Ragul R
+### Register Number: 212222100040
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
