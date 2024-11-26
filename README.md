@@ -31,11 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![data_dining-tables_tim-extendable-revised_honey_updated_1-810x702](https://github.com/RagulRM/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121609342/c0462330-e77c-4435-8612-d047f3a1b77d)
+
+![image](https://github.com/user-attachments/assets/ab47f001-267f-4e8e-af47-a2f7b9a219e1)
+
 
 ### Output:
 
-![WhatsApp Image 2023-11-26 at 13 36 50_642e716e](https://github.com/RagulRM/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121609342/4e592be2-c8cc-44e1-8f82-2cf5bce18707)
+![image](https://github.com/user-attachments/assets/bd8d99e2-d7fb-4afc-b4d7-1b9cfd434f66)
 
 
 ### Name: Ragul R
